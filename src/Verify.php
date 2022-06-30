@@ -1,3 +1,5 @@
+<?php
+
 namespace   Projectname;
 /**
  * 校验工具类，如验证ip、手机、邮箱等等
